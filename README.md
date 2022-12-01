@@ -30,9 +30,9 @@
     <a href="https://wellbird.github.io">
         <img src="https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=GitHubPages&link=https://wellbird.github.io">
     </a><br>
-    <a href="https://www.notion.so/dd2bf9a849ce442787b148431246a383">
+    <!-- <a href="https://www.notion.so/dd2bf9a849ce442787b148431246a383">
         <img src="https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=Notion&link=https://www.notion.so/dd2bf9a849ce442787b148431246a383">
-    </a><br>
+    </a><br> -->
     <a href="https://instagram.com/wellbird">
         <img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&link=https://instagram.com/wellbird">
     </a>
