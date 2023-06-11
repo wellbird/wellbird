@@ -23,13 +23,13 @@
 <p align="center">
     <a href="https://wontfolio.com">
         <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&link=https://wontfolio.com">
-    </a><br>
+    </a>(제작중)<br>
     <a href="https://github.com/wellbird">
         <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&link=https://github.com/wellbird">
     </a><br>
-    <a href="https://wellbird.github.io">
+    <!-- <a href="https://wellbird.github.io">
         <img src="https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=GitHubPages&link=https://wellbird.github.io">
-    </a><br>
+    </a><br> -->
     <!-- <a href="https://www.notion.so/dd2bf9a849ce442787b148431246a383">
         <img src="https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=Notion&link=https://www.notion.so/dd2bf9a849ce442787b148431246a383">
     </a><br> -->
