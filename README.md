@@ -23,7 +23,7 @@
 <p align="center">
     <a href="https://wontfolio.com">
         <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&link=https://wontfolio.com">
-    </a>(제작중)<br>
+    </a>(2023.07 ~ 제작중)<br>
     <a href="https://github.com/wellbird">
         <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&link=https://github.com/wellbird">
     </a><br>
@@ -56,7 +56,7 @@
 
 # 🚀 GitHub Activity
 [![wellbird's  Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wellbird&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wellbird?tab=repositories)
-[![wellbird's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellbird&show_icons=true&theme=vue)](https://github.com/wellbird?tab=repositories)
+<!-- [![wellbird's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellbird&show_icons=true&theme=vue)](https://github.com/wellbird?tab=repositories) -->
 [![wellbird's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wellbird&theme=vue)](https://github.com/wellbird?tab=repositories)
 
 
