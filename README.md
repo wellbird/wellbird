@@ -7,23 +7,24 @@
 ```
     Hi🖐️
     My name is Jaewon Kim.
-    I am a college student studying web front-end and app development.
+    I majored in computer engineering at Dong-A University.
+    I am studying front-end development using React and React-Native.
 ```
 <br/>
 
 # ☎️ Contect
 <p align="center">
-    <img src="https://img.shields.io/badge/Gmail-wellbird7@gmail.com-Green?style=social&logo=Gmail"><br>
     <img src="https://img.shields.io/badge/Naver-wellbird@naver.com-brightgreen?style=social&logo=Naver"><br>
+    <img src="https://img.shields.io/badge/Gmail-wellbird7@gmail.com-Green?style=social&logo=Gmail"><br>
     <img src="https://img.shields.io/badge/Webmail-wellbird@wontfolio.com-Green?style=social">
 </p>
 <br/>
 
 # 💻 Sites 
 <p align="center">
-    <!-- <a href="https://wontfolio.com">
+    <a href="https://wontfolio.com">
         <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&link=https://wontfolio.com">
-    </a> -->
+    </a>(2024.04.19 ~ Keep Making)<br>
     <a href="https://github.com/wellbird">
         <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&link=https://github.com/wellbird">
     </a><br>
